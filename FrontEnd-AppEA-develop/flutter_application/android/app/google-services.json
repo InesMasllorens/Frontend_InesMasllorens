@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "893716088706",
+    "project_id": "pricedivider",
+    "storage_bucket": "pricedivider.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893716088706:android:110b2e9ad3806d4c83b19b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893716088706-0mkgjcl8klm7q2j1rtkhi57isocsj6aj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR4b0htHsSnRfzpO-tVIO2KQnzxe99uKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893716088706-0mkgjcl8klm7q2j1rtkhi57isocsj6aj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
