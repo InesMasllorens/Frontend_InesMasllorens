@@ -48,6 +48,9 @@ class LocalString extends Translations{
       'btn_ayuda_grupos':'On this screen you can see all your groups. If you want to create a new one, click on the + icon located in the lower right corner and complete the fields with the information of the new group.',
       'cerrar': 'Close',
       'aviso_noGrupos': 'There are no groups',
+      'compartir' : 'Share code',
+      'enviar_codigo': 'Join our group with the code',
+      'unir_codigo': 'Join our group',
 
       //-------------------------------------------------------------------------------------------------
       // pantalla crear grupos
@@ -231,6 +234,9 @@ class LocalString extends Translations{
       'btn_ayuda_grupos':'En esta pantalla puedes ver todos tus grupos. Si quieres crear uno nuevo, pulsa en el icono + situado en la esquina inferior derecha y completa los campos con la información del grupo nuevo.',
       'cerrar': 'Cerrar',
       'aviso_noGrupos': 'No hay grupos',
+      'compartir' : 'Compartir código',
+      'enviar_codigo': '¡Únete a nuestro grupo con el código',
+      'unir_codigo': 'Únete a nuestro grupo',
 
        //-------------------------------------------------------------------------------------------------
       // pantalla crear grupos
